@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "517587888486",
+    "project_id": "preprfire",
+    "storage_bucket": "preprfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517587888486:android:bb018546b76ef70ae400a7",
+        "android_client_info": {
+          "package_name": "com.example.prepr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517587888486-57oq7bbdmbbie9bgm7j16qi6qjmletev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKN81P6FLHIDQKtfXaapTRO80HeYu5qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517587888486-57oq7bbdmbbie9bgm7j16qi6qjmletev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517587888486-ffj453vv6e3ccug0rvrujfkaups4fsr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aidendb.prepr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
